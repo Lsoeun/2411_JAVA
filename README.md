@@ -11,7 +11,7 @@
 - JRE (Java Runtime Environment): 자바 애플리케이션을 실행하는 데 필요한 최소한의 환경을 제공하며, JVM(Java Virtual Machine)과 기본 라이브러리로 구성됩니다.
 - JVM (Java Virtual Machine): 자바 바이트코드를 실행하는 가상 머신으로, 자바 프로그램이 어떤 플랫폼에서도 실행될 수 있게 해 줍니다.
 
-#### 자바 다운로드 후 설치하기
+#### 자바 다운로드 후 설치하기(17 버전을 예시로 작성)
 - 자바 기본 설치 경로는 C:/Program Files/Java/jdk-17입니다.
 - 경로 변경 시 [Change...] 버튼을 눌러 원하는 경로로 설치 가능합니다.
 <img src="https://github.com/user-attachments/assets/eaf7e9b4-f762-410e-a754-f0f995d8d196" width="700" height="600"/>
@@ -53,6 +53,7 @@
 ## 학습환경 구축하기
 ### 노션 설치하기
 - [노션 다운로드](https://www.notion.so/) (노션 공식 웹사이트 접속)
+- [노션 사용방법 참고](https://blog.naver.com/PostView.naver?blogId=kairoskyk&logNo=223427075393)
 <img src="https://github.com/user-attachments/assets/f1a79fe2-0452-4cb9-8636-fadb597a303c" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/821e2f8c-1842-4579-a485-3d6f7c08e3f8" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/241f149a-5c1d-40b2-94e1-1c9a33e70f10" width="400" height="300"/>
