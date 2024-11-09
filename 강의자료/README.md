@@ -2,6 +2,7 @@
 ---
 ### 자바 프로그래밍 시작하기
 * 자바의 시작, 실습 환경 구축 - https://chambray-polonium-827.notion.site/12dac6a383ea8056a516c4611640e6e6 <br>
+* 자바 환경변수 설정 이유 - https://chambray-polonium-827.notion.site/138ac6a383ea805e81fffa3a005a134e <br>
 * 자바의 실행과 메모리 - https://chambray-polonium-827.notion.site/12eac6a383ea804cab6cf2f69a106352 <br>
 
 ### 변수와 자료형, 연산자, 제어 흐름 이해하기
@@ -43,5 +44,5 @@
 ### 입출력, 스트림, 쓰레드
 * 입출력 - https://chambray-polonium-827.notion.site/12bac6a383ea800c99dbf45d5dba387c <br>
 * 직렬화 - https://chambray-polonium-827.notion.site/133ac6a383ea8038a161e9fa92c64930 <br>
-* 스트림 - <br>
+* 스트림 - https://chambray-polonium-827.notion.site/136ac6a383ea800cbe6cdedb6eb4665d <br>
 * 쓰레드 - <br>
