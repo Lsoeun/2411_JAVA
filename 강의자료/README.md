@@ -5,7 +5,7 @@
 * 자바의 시작 - https://chambray-polonium-827.notion.site/13aac6a383ea80b4953adfe69796c47a <br>
 
 ### 자바 프로그래밍 시작하기
-* 자바의 시작, 실습 환경 구축 - https://chambray-polonium-827.notion.site/12dac6a383ea8056a516c4611640e6e6 <br>
+* 실습 환경 구축 - https://chambray-polonium-827.notion.site/12dac6a383ea8056a516c4611640e6e6 <br>
 * 자바 환경변수 설정 이유 - https://chambray-polonium-827.notion.site/138ac6a383ea805e81fffa3a005a134e <br>
 * 자바의 실행과 메모리 - https://chambray-polonium-827.notion.site/12eac6a383ea804cab6cf2f69a106352 <br>
 
