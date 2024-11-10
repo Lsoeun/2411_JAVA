@@ -1,5 +1,8 @@
 ## JAVA 강의 자료
 
+### 지바 오리엔테이션
+* 자바 OT - https://chambray-polonium-827.notion.site/OT-130ac6a383ea800e9caff963cee3d428 <br>
+
 ### 자바 프로그래밍 시작하기
 * 자바의 시작, 실습 환경 구축 - https://chambray-polonium-827.notion.site/12dac6a383ea8056a516c4611640e6e6 <br>
 * 자바 환경변수 설정 이유 - https://chambray-polonium-827.notion.site/138ac6a383ea805e81fffa3a005a134e <br>
