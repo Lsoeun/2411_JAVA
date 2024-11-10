@@ -11,51 +11,51 @@
 - JRE (Java Runtime Environment): 자바 애플리케이션을 실행하는 데 필요한 최소한의 환경을 제공하며, JVM(Java Virtual Machine)과 기본 라이브러리로 구성됩니다.
 - JVM (Java Virtual Machine): 자바 바이트코드를 실행하는 가상 머신으로, 자바 프로그램이 어떤 플랫폼에서도 실행될 수 있게 해 줍니다.
 
-#### 자바 다운로드 후 설치하기(17 버전을 예시로 작성)
-- 자바 기본 설치 경로는 C:/Program Files/Java/jdk-17입니다.
+#### 자바 다운로드 후 설치하기
+- 자바 기본 설치 경로는 C:/Program Files/Java/jdk-21입니다.
 - 경로 변경 시 [Change...] 버튼을 눌러 원하는 경로로 설치 가능합니다.
-<img src="https://github.com/user-attachments/assets/eaf7e9b4-f762-410e-a754-f0f995d8d196" width="700" height="600"/>
+<img src="https://github.com/user-attachments/assets/a71d2e63-de07-4760-80d3-9c07f8fab795" width="450" height="300"/>
+<img src="https://github.com/user-attachments/assets/2b154e8a-0fc2-4020-8c69-872f7f029921" width="700" height="600"/>
+
 
 #### 환경변수 설정하기
 - JAVA_HOME은 JDK가 설치된 경로입니다.  설치 경로를 시스템 변수에 설정을 하면 현재 사용자뿐 아니라 다른 사용자 계정으로도 해당 변수를 사용할 수 있습니다. 또한, 다른 프로그램에서 JAVA_HOME 환경 변수를 이용해 JDK의 위치를 찾기도 합니다.
-<img src="https://github.com/user-attachments/assets/5db66e6d-cd42-4fab-82cc-3db510a2d246" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/897bc5c4-b614-4da5-9e79-f8d044cdb47f" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/91bbb564-2a17-4eda-8266-70badc8021e4" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/ea4bc7ef-9980-4c7c-bf8d-477324a1dfc4" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/da9c3170-e0a3-475d-848b-62cc626c7c68" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/ca2959b8-d4b4-4fe7-a673-36ed88a02b64" width="600" height="300"/>
 
 #### 새 시스템 변수 추가
-<img src="https://github.com/user-attachments/assets/88a68853-8147-4a9e-9970-2cf289341b11" width="600" height="200"/>
+<img src="https://github.com/user-attachments/assets/c4c22f12-75e3-485c-aec1-baa3d963ec3f" width="550" height="200"/><br>
+<img src="https://github.com/user-attachments/assets/4dd65e2d-fd4d-4553-8dc8-31894f171184" width="300" height="300"/>
+
 
 #### Path 시스템 변수 편집
-<img src="https://github.com/user-attachments/assets/ea0fc4f9-f632-42cb-a970-57a1bf288aa6" width="400" height="350"/>
-<img src="https://github.com/user-attachments/assets/a8ac4db6-0a9b-40ec-b938-283d06ba4e7b" width="400" height="350"/>
-<img src="https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/9efebb3a-80a1-4b52-9c2c-7a5e793b3505" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/9d00a954-4259-4f85-9e34-f31761635fd5" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/62ce81c2-6bdd-4135-8dc2-8d714088cc11" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/33fce867-9a26-45ee-92bc-0ae2d6e9e58b" width="400" height="350"/>
+
 
 #### 자바 설정 확인
-<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="600" height="300"/>
+<img src="https://github.com/user-attachments/assets/7b6aafc7-a6f2-4b41-9626-be5103688d1a" width="600" height="300"/>
 
 ### 인텔리제이 설치하기
 - [인텔리제이 다운로드](https://www.jetbrains.com/ko-kr/idea/download/#section=windows) (Community 버전 다운로드)
-<img src="https://github.com/user-attachments/assets/7fdac936-aaf1-4ddf-92ba-f5df087e5e5e" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/248c7f2b-3f7d-4851-995f-4d918f07c9c9" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/e8406857-53a3-4f62-8c8e-47af49e03a4a" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/0509e704-6e49-40bd-9266-d567aa4082b5" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/dbc19ca7-e260-4738-b1a3-5f1c745bd328" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/83ece107-e08d-450f-9bf0-5b760fe52e7c" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/706cb51e-196e-42a4-959e-12fa016cf115" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/af393761-153b-4537-8399-369f08ba2ecc" width="400" height="300"/>
 <br>
 - Create Desktop Shortcut : 바로가기 생성 여부<br>
 - Update PATH variable(restart needed) : 윈도우 환경변수 자동으로 추가<br>
 - Update Context menu : 프로젝트로 폴더 열기<br>
 - Create Association : 자바 사용 ( 사용할 환경 선택 )<br>
 <br>
-<img src="https://github.com/user-attachments/assets/41e2d6ed-139a-40c9-a4c1-cc637d4175ab" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/a3dc59d8-01ff-4464-af9c-66e8728b403c" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/55fbaf0c-b677-4ce2-b9fa-8c4a4e4ab27f" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/91bd65f0-f50d-4d6d-9be1-fccda6d47500" width="400" height="300"/>
 
 ## 학습환경 구축하기
 ### 노션 설치하기
 - [노션 다운로드](https://www.notion.so/) (노션 공식 웹사이트 접속)
 - [노션 사용방법 참고](https://blog.naver.com/PostView.naver?blogId=kairoskyk&logNo=223427075393)
-<img src="https://github.com/user-attachments/assets/f1a79fe2-0452-4cb9-8636-fadb597a303c" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/821e2f8c-1842-4579-a485-3d6f7c08e3f8" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/241f149a-5c1d-40b2-94e1-1c9a33e70f10" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/e8cd041b-cbea-496f-8145-7b82d1ede0d4" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/b0f1e0df-7a93-48f7-a2b7-b78f453c8ece" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/99dc833c-4cfb-4361-89d5-644f535ac5d0" width="450" height="300"/>
+<img src="https://github.com/user-attachments/assets/a175740f-2cf0-4160-8310-c3b68b5ce72b" width="450" height="300"/>
+<img src="https://github.com/user-attachments/assets/3af1b7d8-2290-4267-b4bb-319d78772eaa" width="450" height="300"/>
