@@ -1,5 +1,4 @@
 // int 값을 char로 변환할 때는, 명시적인 형변환(캐스팅)을 해야 함
-
 public class IntChar {
     public static void main(String[] args) {
         int num = 65;  // 'A'의 유니코드 값

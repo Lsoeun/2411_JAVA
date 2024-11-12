@@ -1,3 +1,4 @@
+// 형 변환 퀴즈
 public class Quiz {
     public static void main(String[] args) {
 
