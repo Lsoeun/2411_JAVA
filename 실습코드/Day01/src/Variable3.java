@@ -1,3 +1,4 @@
+// 변수 특징 알아보기
 public class Variable3 {
     public static void main(String[] args) {
 //        1. 변수는 선언(정의)되어야만 사용이 가능하다.

@@ -1,3 +1,4 @@
+// Boolean 자료형 실습
 public class BooleanEx2 {
     public static void main(String[] args) {
         // boolean 자료형 변수

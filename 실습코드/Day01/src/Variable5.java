@@ -1,3 +1,4 @@
+// 변수 값 바꾸기 퀴즈
 public class Variable5 {
     public static void main(String[] args) {
         int a = 123;

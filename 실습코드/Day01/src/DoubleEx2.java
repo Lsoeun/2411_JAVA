@@ -1,3 +1,4 @@
+// 실수 자료형 실습(double, float 비교)
 public class DoubleEx2 {
     public static void main(String[] args) {
         // float 타입 실수
