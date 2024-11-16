@@ -9,5 +9,6 @@ public class Operation1 {
         System.out.println(10 / 3.0); // 3.3333333333333335이 나온다.
         // 정수와 실수의 연산은 몫이 실수로 나온다.
         System.out.println(10 % 3); // 나머지를 구한다.
+        // 정수와 정수의 연산이므로 나머지도 정수로 나온다.
     }
 }
