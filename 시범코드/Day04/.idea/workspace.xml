@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65ad0043-b5dc-4f9e-a822-9205fef086f3" name="Changes" comment="Day04 실습 코드">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimension1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoDimension2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ovMffwbaJORVlhU729q9UtlpAP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArrayTest1.executor": "Run",
+    "Application.ArrayTest2.executor": "Run",
+    "Application.ArrayTest3.executor": "Run",
+    "Application.ArrayTest4.executor": "Run",
+    "Application.ArrayTest5.executor": "Run",
+    "Application.ArrayTest6.executor": "Run",
+    "Application.CharArray.executor": "Run",
+    "Application.TwoDimension.executor": "Run",
+    "Application.TwoDimension2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SoJung/2411_JAVA/실습코드/Day04"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TwoDimension2">
+    <configuration name="ArrayTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest5" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest6" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharArray" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimension1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimension1" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimension2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimension2" />
+      <module name="Day04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoDimension2" />
+        <item itemvalue="Application.TwoDimension1" />
+        <item itemvalue="Application.CharArray" />
+        <item itemvalue="Application.ArrayTest6" />
+        <item itemvalue="Application.ArrayTest5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65ad0043-b5dc-4f9e-a822-9205fef086f3" name="Changes" comment="" />
+      <created>1731745704816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731745704816</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day04 실습 코드">
+      <option name="closed" value="true" />
+      <created>1731748092486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731748092486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day04 실습 코드">
+      <option name="closed" value="true" />
+      <created>1731748971345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731748971345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day04 실습 코드" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day04 실습 코드" />
+  </component>
+</project>
