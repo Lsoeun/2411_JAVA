@@ -20,6 +20,6 @@ public class Quiz {
         // float 타입 변수에 99.99f를 할당하고, 이를 double 타입 변수로 형변환한 후 출력하세요.
         float f4 = 99.99f;
         double d4 = f4;   // 자동 형변환
-        System.out.println(d4);  // 출력: 99.99
+        System.out.println(d4);  // 출력: 99.98999786376953
     }
 }
