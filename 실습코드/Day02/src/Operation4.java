@@ -1,4 +1,4 @@
-public class OperationEx4 {
+public class Operation4 {
     public static void main(String[] args) {
         int number = 7;
         String result = (number % 2 == 0) ? "짝수" : "홀수";
