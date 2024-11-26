@@ -4,7 +4,6 @@ public class Student2 {
     int grade;
     String address;
 
-
     public String getStudentName() {
         return studentName;
     }
