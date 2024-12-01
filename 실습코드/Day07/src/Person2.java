@@ -11,11 +11,18 @@ public class Person2 {
         name = pname;
     }
 
+    public Person2(String name, float height, float weight) {
+        this.name = name;
+        this.height = height;
+        this.weight = weight;
+    }
+
     // public Person2() {} // 디폴트 생성자 직접 추가
 
     public static void main(String[] args) {
         // Person2 personLee = new Person2(); // 오류 발생
         Person2 personLee = new Person2("이이름");
         System.out.println(personLee.name);
+        Person2 person = new Person2("김이름", 160.0f, 100.0f);
     }
 }
