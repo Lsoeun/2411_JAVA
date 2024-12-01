@@ -1,3 +1,5 @@
+package A;
+
 public class Example {
     // public 필드: 어디서나 접근 가능
     public String publicField = "Public Field";
@@ -14,5 +16,13 @@ public class Example {
     // private 필드에 접근할 수 있는 public 메서드 (getter)
     public String getPrivateField() {
         return privateField;
+    }
+
+    public static void main(String[] args) {
+        Example example = new Example();
+        example.publicField = "접근가능";
+        example.protectedField = "접근가능";
+        example.defaultField = "접근가능";
+        example.privateField = "접근가능";
     }
 }
