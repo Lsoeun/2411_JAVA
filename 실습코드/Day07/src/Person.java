@@ -2,7 +2,7 @@ public class Person {
     String name;
     int age;
 
-    public Person() {}
+    public Person() {} // 디폴트 생성자
 
     // 생성자를 통한 초기화
     public Person(String name, int age) {
