@@ -5,3 +5,5 @@ Day04 질문사항 - https://chambray-polonium-827.notion.site/DAY04-146ac6a383e
 Day05 질문사항 - https://chambray-polonium-827.notion.site/Day05-14aac6a383ea803ea595ef6d91dc3dd1 <br>
 Day06 질문사항 - https://chambray-polonium-827.notion.site/Day06-14cac6a383ea80fca099e9df225e23be <br>
 Day07 질문사항 - https://chambray-polonium-827.notion.site/Day07-14eac6a383ea805aa046ee42149753dd <br>
+Day08 질문사항 - https://chambray-polonium-827.notion.site/Day08-151ac6a383ea8048a02dd5b44b00a9e7 <br>
+Day09 질문사항 - https://chambray-polonium-827.notion.site/Day09-153ac6a383ea80c5be10f0633a8789c5 <br>
