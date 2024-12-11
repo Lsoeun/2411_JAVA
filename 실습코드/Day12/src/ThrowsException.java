@@ -19,5 +19,13 @@ public class ThrowsException {
         } catch (ClassNotFoundException e) {
             System.out.println("클래스를 찾을 수 없습니다: " + e.getMessage());
         }
+
+
+        ThrowsException test2 = new ThrowsException();
+        try {
+            test2.loadClass("a.txt", "java.lang.String");
+        } catch (FileNotFoundException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
     }
 }
