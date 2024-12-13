@@ -7,7 +7,7 @@ public class ExceptionHandling2 {
         FileInputStream fis = null;
 
         try {
-            fis = new FileInputStream("a.txt");
+            fis = new FileInputStream("a.txt"); // 파일을 열기 위한 리소스
         } catch (FileNotFoundException e) {
             System.out.println(e);
             return;

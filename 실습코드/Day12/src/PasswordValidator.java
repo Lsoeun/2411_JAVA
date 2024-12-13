@@ -9,7 +9,7 @@ public class PasswordValidator {
             throw new PasswordException("비밀번호는 5자 이상이어야 합니다.");
             // 비밀번호가 5자 미만인 경우 예외 발생
         }
-        if (!password.matches("[a-zA-Z0-9]*")) {
+        if (!password.matches("[a-zA-Z0-9]*")) { // 소문자, 대문자, 숫자가 0개 이상 연속된 문자열을 의미
             throw new PasswordException("비밀번호는 문자열과 숫자로만 이루어져야 합니다.");
             // 문자열로만 이루어지지 않은 경우 예외 발생
         }

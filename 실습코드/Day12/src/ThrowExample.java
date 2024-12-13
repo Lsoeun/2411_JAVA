@@ -7,7 +7,7 @@ public class ThrowExample {
         }
     }
 
-    static void checkAge(int age) {
+    public static void checkAge(int age) {
         if (age < 18) {
             throw new IllegalArgumentException("나이가 18세 미만입니다.");
         }
