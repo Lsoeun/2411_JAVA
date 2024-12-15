@@ -9,10 +9,14 @@ public class IDFormatTest {
         if (userID == null) {
             // 강제로 예외 발생
             throw new IDFormatException("아이디는 null일 수 없습니다.");
-        } else if (userID.length() > 0 || userID.length() > 20) {
+        }
+
+        if (userID.length() < 8 || userID.length() > 20) {
             // 강제로 예외 발생
             throw new IDFormatException("아이디는 8자 이상 20자 이하로 쓰세요");
         }
+
+        // 조건을 모두 통과한 경우에만 userID를 설정
         this.userID = userID;
     }
 

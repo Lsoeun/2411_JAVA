@@ -2,6 +2,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
+
 public class ExceptionHandling2 {
     public static void main(String[] args) {
         FileInputStream fis = null;
@@ -14,7 +15,8 @@ public class ExceptionHandling2 {
         } finally {
             if (fis != null) {
                 try {
-                    fis.close();  // 파일 입력 스트림 닫기. 파일 리소스를 닫는 colse() 메서드
+                    fis.close();  // 파일 리소스를 닫는 colse() 메서드
+                    System.out.println("파일 리소스 닫힘");
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
