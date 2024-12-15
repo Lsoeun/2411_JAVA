@@ -13,3 +13,5 @@ Day11 질문사항 - https://chambray-polonium-827.notion.site/Day11-15bac6a383e
   <br>
 Day11 추가정리 - https://chambray-polonium-827.notion.site/Day11-15bac6a383ea80bb88cfec784a13f428
   <br>
+Day12 추가정리 - https://chambray-polonium-827.notion.site/Day12-15dac6a383ea8022b396cbfdbfa98e11
+  <br>
