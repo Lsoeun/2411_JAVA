@@ -7,11 +7,8 @@ Day06 질문사항 - https://chambray-polonium-827.notion.site/Day06-14cac6a383e
 Day07 질문사항 - https://chambray-polonium-827.notion.site/Day07-14eac6a383ea805aa046ee42149753dd <br>
 Day08 질문사항 - https://chambray-polonium-827.notion.site/Day08-151ac6a383ea8048a02dd5b44b00a9e7 <br>
 Day09 질문사항 - https://chambray-polonium-827.notion.site/Day09-153ac6a383ea80c5be10f0633a8789c5 <br>
-Day10 질문사항 - https://chambray-polonium-827.notion.site/Day10-158ac6a383ea808abf6dc10b34e5c441
-  <br>
-Day11 질문사항 - https://chambray-polonium-827.notion.site/Day11-15bac6a383ea80958a91f478229f07b7
-  <br>
-Day11 추가정리 - https://chambray-polonium-827.notion.site/Day11-15bac6a383ea80bb88cfec784a13f428
-  <br>
-Day12 추가정리 - https://chambray-polonium-827.notion.site/Day12-15dac6a383ea8022b396cbfdbfa98e11
-  <br>
+Day10 질문사항 - https://chambray-polonium-827.notion.site/Day10-158ac6a383ea808abf6dc10b34e5c441 <br>
+Day11 질문사항 - https://chambray-polonium-827.notion.site/Day11-15bac6a383ea80958a91f478229f07b7 <br>
+Day11 추가정리 - https://chambray-polonium-827.notion.site/Day11-15bac6a383ea80bb88cfec784a13f428 <br>
+Day12 추가정리 - https://chambray-polonium-827.notion.site/Day12-15dac6a383ea8022b396cbfdbfa98e11 <br>
+Day13 추가정리 - https://chambray-polonium-827.notion.site/Day13-15eac6a383ea806ea56bfb0fcd75422c <br>
