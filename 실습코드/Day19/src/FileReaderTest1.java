@@ -10,14 +10,14 @@ public class FileReaderTest1 {
             FileReader fr = new FileReader(fileName);
 
             int data = 0;
-            // FileInputStream을 이용해서 파일내용을 읽어 화면에 출력한다.
+            // FileInputStream을 이용해서 파일내용을 읽어 화면에 출력
             while((data = fis.read()) != -1) {
                 System.out.print((char)data);
             }
             System.out.println();
             fis.close();
 
-            // FileReader를 이용해서 파일내용을 읽어 화면에 출력한다.
+            // FileReader를 이용해서 파일내용을 읽어 화면에 출력
             while((data = fr.read()) != -1) {
                 System.out.print((char)data);
             }
