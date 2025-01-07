@@ -16,4 +16,5 @@ Day14 추가정리 - https://chambray-polonium-827.notion.site/Day14-163ac6a383e
 Day15 추가정리 - https://chambray-polonium-827.notion.site/Day15-166ac6a383ea805181e7f5e7962f1963 <br>
 Day16 추가정리 - https://chambray-polonium-827.notion.site/Day16-16bac6a383ea80baaf03d5ec117451f2 <br>
 Day17 추가정리 - https://chambray-polonium-827.notion.site/Day17-16dac6a383ea80b49007e326a664b51d <br>
-Day18 추가정리 -https://chambray-polonium-827.notion.site/Day18-171ac6a383ea80c6997adc412c80849a <br>
+Day18 추가정리 - https://chambray-polonium-827.notion.site/Day18-171ac6a383ea80c6997adc412c80849a <br>
+Day19 추가정리 - https://chambray-polonium-827.notion.site/Day19-174ac6a383ea8006b362c4e35e1ee573 <br>
